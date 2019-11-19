@@ -7,7 +7,8 @@ Application dynamique de visualisation de données géographiques, développée 
 ![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/CaptureAppli.JPG)
 
 # Indications
-L'application VD-SerVis est hébergée sur serveur à l'adresse suivante : adresse à venir
+L'application VD-SerVis est hébergée sur serveur à l'adresse suivante : [adresse à venir]
+
 L'utilisateur trouvera ci-après quelques informations relatives à cette application (aide, crédits, infos, etc...).
 
 # Description
