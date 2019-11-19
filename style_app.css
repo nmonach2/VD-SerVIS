@@ -94,6 +94,8 @@ Interface divided into 4 main parts (boxes)
 }
 
 .github {
+  width:30px;
+  height:30px;
   position: absolute;
   top: 5px;
   left: 1235px;
@@ -106,6 +108,8 @@ Interface divided into 4 main parts (boxes)
 }
 
 .help {
+  width:30px;
+  height:30px;
   position: absolute;
   top: 40px;
   left: 1235px;
