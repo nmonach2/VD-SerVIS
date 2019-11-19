@@ -4,7 +4,7 @@ Outil dynamique de visualisation de l'accessibilité aux services publics
 Application dynamique de visualisation de données géographiques, développée en HTML-CSS-JS. Une version plus complète avec de nouvelles fonctionnalités et données est à venir et servira de support d'analyse et de visualisation pour le Mémoire de Master directement.
 
 
-![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/CaptureAppli.JPG)
+![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/CaptureAppli.JPG)
 
 # Indications
 L'application VD-SerVis est hébergée sur serveur à l'adresse suivante : adresse à venir
@@ -46,6 +46,6 @@ Les données relatives aux temps de trajet ont été extraites directement depui
 
 Les données relatives à la population sont issues du recensement démographique sur la population et les ménages mené par l'Office Fédéral de la Statistique en 2015 et publié en 2016 : https://www.bfs.admin.ch/bfs/fr/home/actualites/quoi-de-neuf.assetdetail.1442443.html. Ces données sont disponibles à l'hectomètre, ce qui est à ce jour le plus fin niveau d'analyse qui puisse être mis à disposition.
 
-![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/CaptureAppli2.JPG)
+![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/CaptureAppli2.JPG)
 
 Copyright © 2019 - Nicolas Monachon
