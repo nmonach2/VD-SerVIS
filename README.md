@@ -17,19 +17,29 @@ VD-SerVis est une application permettant de visualiser l'accessibilité aux serv
 
 La version actuelle ne comprend pour l'instant qu'un prototype de service implémenté : les établissements secondaires scolaires. Dans les prochaines mises à jours, d'autres services publics y seront rajoutés, notamment dans le domaine de la santé, des secours et des urgences médicales. Les contraintes d'accessibilité et les temps de trajets sont des éléments notables dans la géographie de l'urgence, ce qui rend l'utilisation de VD-SerVis particulièrement intéressante.
 
-# Utilisation
 
-L'interface se divise en 3 blocs majeurs :
+# Eléments d'interface
+
+L'interface se divise en 4 blocs majeurs :
+- **Le bandeau** sur le haut de l'écran
 - **Les paramètres de sélection** sur la partie gauche de l'écran
 - **La carte Leaflet** au centre de l'écran
 - **Les résultats de la sélection** sur la partie droite de l'écran
 
-L'utilisateur est invité à interagir avec les **paramètres de sélection** où il peut choisir notamment le type de service, sélecionner toutes ou partie des unités de service réparties sur le territoire vaudois, indiquer un temps de trajet maximal, et afficher les densités de population. Trois différents moyens de sélection ont été implémentés, afin d'améliorer l'ergonomie, le temps de sélection et les combinaisons possibles :
-- Un formulaire de cases à cocher (checkboxes)
-- Un clic sur un marqueur de la carte (popup)
-- Un outil lasso pour une sélection spatiale
+![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/blocs.JPG)
 
-Chacune de ces opérations implique un évènement sur la **carte**, ce qui permet de mieux visualiser dans l'espace la sélection choisie et ses implications. Il est aussi possible - et recommandé - d'utiliser les fonctionnalités présentes sur l'espace de la carte afin de maximiser l'expérience utilisateur dans le choix de la sélection. Il est possible d'alterner le fond de carte.
+L'utilisateur peut interagir avec plusieurs éléments de l'interface (1-16 sur la carte ci-dessous) afin d'obtenir le visuel désiré ainsi que certains résultats portant sur sa sélection (I - VI).
+
+![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/elements.JPG)
+
+# Utilisation
+
+En premier lieu, l'utilisateur est invité à interagir avec les **paramètres de sélection** où il peut choisir notamment le type de service, sélecionner toutes ou partie des unités de service réparties sur le territoire vaudois, indiquer un temps de trajet maximal, et afficher les densités de population. Trois différents moyens de sélection ont été implémentés, afin d'améliorer l'ergonomie, le temps de sélection et les combinaisons possibles :
+1. Un formulaire de cases à cocher (checkboxes)
+2. Un clic sur les marqueurs de la carte (popup)
+3. Un outil lasso pour une sélection spatiale (plus d'infos sur cet outil [ici](https://github.com/zakjan/leaflet-lasso))
+
+Chacune de ces opérations implique un évènement sur la **carte**, ce qui permet de mieux visualiser dans l'espace la sélection choisie et ses implications. Il est aussi possible - et recommandé - d'utiliser les fonctionnalités présentes sur l'espace de la carte afin de maximiser l'expérience utilisateur dans le choix de la sélection. Le fond de carte est également interchangeable.
 
 Finalement, les **résultats de la sélection** proposent une série de statistiques relatives à la sélection opérée. Elles varient de façon dynamique relativement aux modifications de sélection opérées par l'utilisateur. Cette partie affiche :
 - le nombre d'habitants dans la zone affichée sur la carte
@@ -39,7 +49,6 @@ Finalement, les **résultats de la sélection** proposent une série de statisti
 - le temps de trajet moyen pondéré dans le bassin d'influence des unités sélectionnées
 - une appréciation de la qualité de l'accessibilité au service dans lesdits bassins (comparée à la moyenne pondérée vaudoise)
 - un histogramme des temps de trajet relatif à la sélection
-
 
 # Divers
 
