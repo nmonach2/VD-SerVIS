@@ -28,6 +28,7 @@ La version actuelle correspond à la phase terminale de conception. En adéquati
 - ...
 
 Les contraintes d'accessibilité et les temps de trajets sont des éléments particulièrement primordiaux en géographie de l'urgence, ce qui rend l'utilisation de VD-SerVis spécialement intéressante. En considérant que toutes les unités de service sont qualitativement égales, c'est le temps de trajet qui agit comme composante prédominante dans le choix de l'une d'entre elles. 
+
 L'application VD-SerVis est destinée à des fins informatives et instructives pour le grand public, ainsi qu'à des fins de planification, d'évaluation et de prévention pour les responsables des services de santé.
 
 
