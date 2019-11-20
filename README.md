@@ -25,7 +25,7 @@ Les fichiers suivants figurent dans le présent répertoire et sont nécessaires
 - `images` :          Dossier contenant les icônes et marqueurs utilisés dans l'app
 
 Le fichier suivant figure dans le présent repertoire à titre informatif :
-- `script.py`:        Script Python - Script d'extraction des données utilisées (cf section "[Données](https://github.com/nmonach2/VD-SerVis#temps-de-trajet-et-affiliation-%C3%A0-un-bassin)"
+- `script.py`:        Script Python - Script d'extraction des données utilisées (cf section "[Données](https://github.com/nmonach2/VD-SerVis#temps-de-trajet-et-affiliation-%C3%A0-un-bassin)")
 
 
 
