@@ -84,7 +84,7 @@ Les données relatives aux temps de trajet ont été extraites directement depui
 Les données relatives à la population sont issues du [recensement démographique sur la population et les ménages](https://www.bfs.admin.ch/bfs/fr/home/actualites/quoi-de-neuf.assetdetail.1442443.html) mené par l'Office Fédéral de la Statistique en 2015 et publié en 2016. Ces données sont disponibles à l'hectomètre, ce qui est à ce jour le plus fin niveau d'analyse qui puisse être mis à disposition.
 
 ## Unités de service
-La localisation des services publics (dans l'état actuel, celui des établissements scolaires secondaires vaudois) a été obtenue en transformant les adresses des établissements listés en coordonnées géographiques. La liste des unités, actualisée en 2019, provient du [site](https://www.vd.ch/toutes-les-autorites/departements/departement-de-la-formation-de-la-jeunesse-et-de-la-culture-dfjc/direction-generale-de-lenseignement-obligatoire-dgeo/les-etablissements-scolaires/) de l'Etat de Vaud
+La localisation des services publics (dans l'état actuel, celui des établissements scolaires secondaires vaudois) a été obtenue en transformant les adresses des établissements listés en coordonnées géographiques. La liste des unités, actualisée en 2019, provient du [site](https://www.vd.ch/toutes-les-autorites/departements/departement-de-la-formation-de-la-jeunesse-et-de-la-culture-dfjc/direction-generale-de-lenseignement-obligatoire-dgeo/les-etablissements-scolaires/) de l'Etat de Vaud (DFJC).
 
 ![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/CaptureAppli2.JPG)
 
