@@ -6,16 +6,21 @@ Application dynamique de visualisation de données géographiques, développée 
 
 ![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/CaptureAppli.JPG)
 
+
+
 # Indications
 L'application VD-SerVis est hébergée sur serveur à l'adresse suivante : [adresse à venir]
 
 L'utilisateur trouvera ci-après quelques informations relatives à cette application (aide, crédits, infos, etc...).
+
+
 
 # Description
 
 VD-SerVis est une application permettant de visualiser l'accessibilité aux services publics et de constater et quantifier les inégalités spatiales qui en résultent. 
 
 La version actuelle ne comprend pour l'instant qu'un prototype de service implémenté : les établissements secondaires scolaires. Dans les prochaines mises à jours, d'autres services publics y seront rajoutés, notamment dans le domaine de la santé, des secours et des urgences médicales. Les contraintes d'accessibilité et les temps de trajets sont des éléments notables dans la géographie de l'urgence, ce qui rend l'utilisation de VD-SerVis particulièrement intéressante.
+
 
 
 # Eléments d'interface
@@ -31,6 +36,8 @@ L'interface se divise en 4 blocs majeurs :
 L'utilisateur peut interagir avec plusieurs éléments de l'interface (1-16 sur la carte ci-dessous) afin d'obtenir le visuel désiré ainsi que certains résultats dépendant de sa sélection (I - VI).
 
 ![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/interface.png)
+
+
 
 # Utilisation
 
@@ -55,6 +62,8 @@ Elle contient les marqueurs relatifs au type de service sélectionné. Chacune d
 
 Finalement, les **résultats de la sélection** proposent une série de statistiques relatives à la sélection opérée. Elles varient de façon dynamique relativement aux modifications de sélection opérées par l'utilisateur.
 
+
+
 # Données
 
 ## Temps de trajet et affiliation à un bassin
@@ -64,7 +73,7 @@ Les données relatives aux temps de trajet ont été extraites directement depui
 Les données relatives à la population sont issues du [recensement démographique sur la population et les ménages](https://www.bfs.admin.ch/bfs/fr/home/actualites/quoi-de-neuf.assetdetail.1442443.html) mené par l'Office Fédéral de la Statistique en 2015 et publié en 2016. Ces données sont disponibles à l'hectomètre, ce qui est à ce jour le plus fin niveau d'analyse qui puisse être mis à disposition.
 
 ## Unités de service
-La localisation des services publics (dans l'état actuel, celui des établissements scolaires secondaires vaudois) a été obtenue en transformant les adresses des établissements listés en coordonnées géographiques. La liste des unités, actualisée en 2019, provient du [site](https://www.vd.ch/toutes-les-autorites/departements/departement-de-la-formation-de-la-jeunesse-et-de-la-culture-dfjc/direction-generale-de-lenseignement-obligatoire-dgeo/les-etablissements-scolaires/) de l'Etat de Vaud :
+La localisation des services publics (dans l'état actuel, celui des établissements scolaires secondaires vaudois) a été obtenue en transformant les adresses des établissements listés en coordonnées géographiques. La liste des unités, actualisée en 2019, provient du [site](https://www.vd.ch/toutes-les-autorites/departements/departement-de-la-formation-de-la-jeunesse-et-de-la-culture-dfjc/direction-generale-de-lenseignement-obligatoire-dgeo/les-etablissements-scolaires/) de l'Etat de Vaud
 
 ![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/CaptureAppli2.JPG)
 
