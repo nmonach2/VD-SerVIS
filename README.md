@@ -30,7 +30,7 @@ L'interface se divise en 4 blocs majeurs :
 
 L'utilisateur peut interagir avec plusieurs éléments de l'interface (1-16 sur la carte ci-dessous) afin d'obtenir le visuel désiré ainsi que certains résultats dépendant de sa sélection (I - VI).
 
-![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/elements.png)
+![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/interface.png)
 
 # Utilisation
 
