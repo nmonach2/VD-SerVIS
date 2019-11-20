@@ -88,4 +88,4 @@ La localisation des services publics (dans l'état actuel, celui des établissem
 
 ![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/CaptureAppli2.JPG)
 
-Copyright © 2019 - Nicolas Monachon
+Copyright © Nicolas Monachon - 2019
