@@ -65,7 +65,7 @@ L'utilisateur peut interagir avec plusieurs éléments de l'interface (1-16 sur 
 
 # Utilisation
 
-## Les paramètres de sélection
+### Les paramètres de sélection
 
 En premier lieu, l'utilisateur est invité à interagir avec les **paramètres de sélection** en 3 étapes successives:
 1. Choix du type de service
@@ -78,11 +78,11 @@ Trois différents moyens de sélection des unités ont été implémentés, afin
 - Un clic sur les marqueurs de la carte (popup)
 - Un outil lasso pour une sélection spatiale (plus d'infos sur cet outil [ici](https://github.com/zakjan/leaflet-lasso))
 
-## La carte Leaflet
+### La carte Leaflet
 
 Elle contient les marqueurs relatifs au type de service sélectionné. Chacune de opérations de sélection provoque un évènement sur la **carte**, ce qui permet de mieux visualiser dans l'espace la sélection choisie et ses implications. Il est aussi possible - et recommandé - d'utiliser les fonctionnalités présentes sur l'espace de la carte afin de maximiser l'expérience utilisateur dans le choix de la sélection. Le fond de carte est également interchangeable et les coordonnées du pointeur de la souris (WGS84 [lat/lon]) sont reportées dans le coin inférieur gauche. 
 
-## Les résultats de la sélection 
+### Les résultats de la sélection 
 
 Finalement, les **résultats de la sélection** proposent une série de statistiques relatives à la sélection opérée. Elles varient de façon dynamique relativement aux modifications de sélection opérées par l'utilisateur.
 
@@ -90,13 +90,13 @@ Finalement, les **résultats de la sélection** proposent une série de statisti
 
 # Données
 
-## Temps de trajet et affiliation à un bassin
+### Temps de trajet et affiliation à un bassin
 Les données relatives aux temps de trajet ont été extraites directement depuis le serveur d'OTP ([Open Trip Planner]( https://www.opentripplanner.org/)) grâce aux requêtes formulées dans le script python joint `script.py`. Après exécution du script, le fichier de données obtenu a été nettoyé et les quelques données manquantes ou soumises à un problème manifeste de calcul ont été corrigées par interpolation.
 
-## Population
+### Population
 Les données relatives à la population sont issues du [recensement démographique sur la population et les ménages](https://www.bfs.admin.ch/bfs/fr/home/actualites/quoi-de-neuf.assetdetail.1442443.html) mené par l'Office Fédéral de la Statistique en 2015 et publié en 2016. Ces données sont disponibles à l'hectomètre, ce qui est à ce jour le plus fin niveau d'analyse qui puisse être mis à disposition.
 
-## Unités de service
+### Unités de service
 La localisation des services publics (dans l'état actuel, celui des établissements scolaires secondaires vaudois) a été obtenue en transformant les adresses des établissements listés en coordonnées géographiques. La liste des unités, actualisée en 2019, provient du [site](https://www.vd.ch/toutes-les-autorites/departements/departement-de-la-formation-de-la-jeunesse-et-de-la-culture-dfjc/direction-generale-de-lenseignement-obligatoire-dgeo/les-etablissements-scolaires/) de l'Etat de Vaud (DFJC).
 
 ![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/CaptureAppli2.JPG)
