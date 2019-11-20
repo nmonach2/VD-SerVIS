@@ -21,10 +21,10 @@ La version actuelle ne comprend pour l'instant qu'un prototype de service implé
 # Eléments d'interface
 
 L'interface se divise en 4 blocs majeurs :
-A. **Le bandeau** sur le haut de l'écran
-B. **Les paramètres de sélection** sur la partie gauche de l'écran
-C. **La carte Leaflet** au centre de l'écran
-D. **Les résultats de la sélection** sur la partie droite de l'écran
+- A. **Le bandeau** sur le haut de l'écran
+- B. **Les paramètres de sélection** sur la partie gauche de l'écran
+- C. **La carte Leaflet** au centre de l'écran
+- D. **Les résultats de la sélection** sur la partie droite de l'écran
 
 ![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/blocs.png)
 
