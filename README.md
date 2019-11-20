@@ -19,8 +19,15 @@ L'utilisateur trouvera ci-après quelques informations relatives à cette applic
 
 VD-SerVis est une application permettant de visualiser l'accessibilité aux services publics et de constater et quantifier les inégalités spatiales qui en résultent. 
 
-La version actuelle ne comprend pour l'instant qu'un prototype de service implémenté : les établissements secondaires scolaires. Dans les prochaines mises à jours, d'autres services publics y seront rajoutés, notamment dans le domaine de la santé, des secours et des urgences médicales. Les contraintes d'accessibilité et les temps de trajets sont des éléments notables dans la géographie de l'urgence, ce qui rend l'utilisation de VD-SerVis particulièrement intéressante.
-Elle est destinée à des fins informatives et instructives pour le grand public, ainsi qu'à des fins de planification, d'évaluation et de prévention pour les responsables des services de santé.
+La version actuelle correspond à la phase terminale de conception. En adéquation avec l'approche TDD (test-driven-development), un seul prototype de service "prétexte" a été implémenté jusqu'à ce que la conception soit achevée : les établissements secondaires scolaires. Dans les prochaines mises à jours, d'autres services publics seront rajoutés, notamment dans le domaine de la santé, des secours et des urgences médicales, à savoir :
+- Les services d'urgences hospitalières
+- Les services de secours pré-hospitaliers (ambulances/SMUR)
+- Les services de sauvetage et de secours (SDIS)
+- Les permanences médicales
+- Les pharmacies
+- ...
+Les contraintes d'accessibilité et les temps de trajets sont des éléments particulièrement primordiaux en géographie de l'urgence, ce qui rend l'utilisation de VD-SerVis spécialement intéressante. En considérant que toutes les unités de service sont qualitativement égales, c'est le temps de trajet qui agit comme composante prédominante dans le choix de l'une d'entre elles. 
+L'application VD-SerVis est destinée à des fins informatives et instructives pour le grand public, ainsi qu'à des fins de planification, d'évaluation et de prévention pour les responsables des services de santé.
 
 
 
