@@ -26,11 +26,11 @@ L'interface se divise en 4 blocs majeurs :
 - **La carte Leaflet** au centre de l'écran
 - **Les résultats de la sélection** sur la partie droite de l'écran
 
-![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/blocs.JPG)
+![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/blocs.png)
 
 L'utilisateur peut interagir avec plusieurs éléments de l'interface (1-16 sur la carte ci-dessous) afin d'obtenir le visuel désiré ainsi que certains résultats portant sur sa sélection (I - VI).
 
-![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/elements.JPG)
+![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/elements.png)
 
 # Utilisation
 
