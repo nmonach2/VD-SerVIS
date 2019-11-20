@@ -12,6 +12,15 @@ Une version plus complète avec des données étendues est à venir et servira d
 # Indications
 L'application VD-SerVis est hébergée sur serveur à l'URL suivant : [URL à venir]
 
+Les fichiers de scripts figurent dans le présent répertoire :
+- index_app.html : Fichier HTML - Structure de l'app (à lancer avec Chrome)
+- style_app.css : Fichier CSS - Styles de l'app
+- index_app.js : Fichier JavaScript - Interactivité de l'app
+- pop_app.js : Fichier de données en format JS - Population à l'hectomètre et temps de trajet au service
+- school_app.js : Fichier de données en format JS - Ecoles secondaires
+- favicon.ico : Logo de l'app
+- images : Dossier contenant les icônes et marqueurs utilisés dans l'app
+
 L'utilisateur trouvera ci-après quelques informations relatives à cette application (aide, crédits, infos, etc...).
 
 
