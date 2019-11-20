@@ -14,6 +14,7 @@ L'application VD-SerVis est hébergée sur serveur à l'URL suivant : [URL à ve
 
 L'utilisateur trouvera ci-après quelques informations relatives à cette application (aide, crédits, infos, etc...).
 
+# Fichiers de l'app
 Les fichiers suivants figurent dans le présent répertoire et sont nécessaires au fonctionnement de l'application :
 - `index_app.html` :  Script HTML - Structure de l'app (à lancer avec Chrome)
 - `style_app.css` :   Script CSS - Styles de l'app
@@ -23,7 +24,7 @@ Les fichiers suivants figurent dans le présent répertoire et sont nécessaires
 - `favicon.ico` :     Logo de l'app
 - `images` :          Dossier contenant les icônes et marqueurs utilisés dans l'app
 
-Le fichier suivant figure dans le présent repertoire à titre informatif .
+Le fichier suivant figure dans le présent repertoire à titre informatif :
 - `script.py`:        Script Python - Script d'extraction des données utilisées (cf section "Données")
 
 
