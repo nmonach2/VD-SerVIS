@@ -1,6 +1,8 @@
 # VD-SerVis
 
-Application dynamique de visualisation de données géographiques, développée en HTML-CSS-JS. Une version plus complète avec de nouvelles fonctionnalités et données est à venir et servira de support d'analyse et de visualisation pour le Mémoire de Master directement.
+Application dynamique de visualisation de données géographiques, développée en HTML-CSS-JS.
+
+Une version plus complète avec des données étendues est à venir et servira de support d'analyse et de visualisation pour le Mémoire de Master directement.
 
 
 ![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/CaptureAppli.JPG)
