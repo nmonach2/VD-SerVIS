@@ -101,4 +101,9 @@ La localisation des unités de services a été obtenue en transformant les adre
 
 ![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/CaptureAppli2.JPG)
 
+### Suggestions, remerciements et crédits
+Toute suggestion de modification ou d'amélioration est la bienvenue.
+Ce travail constitue mon premier projet de géovisualisation dynamique, il s'agit également de ma première expérience approfondie avec les langages HTML, CSS et JS et avec la programmation en général. De l'idée à l'implémentation, ...il n'y a de loin pas eu qu'un seul pas ! Le nombre d'heures de travail passées n'ont par conséquent pas été comptabilisées... Et s'il fallait tout de même le faire, cela se monterait certainement autour des 1,3 - 1,5 Mio de secondes... sans compter les pauses ! :-P
+Merci à ma famille, Samuel, Sandrine et Jean-François de m'avoir soutenu dans ces moments, alors même que vous n'y compreniez pas grand chose ! 
+
 Copyright © Nicolas Monachon - 2020
