@@ -2,7 +2,7 @@
 
 Application dynamique de visualisation de données géographiques, développée en HTML-CSS-JS.
 
-Une version plus complète avec des données étendues est à venir et servira de support d'analyse et de visualisation pour le Mémoire de Master directement.
+Cette version sert de support d'analyse et de visualisation pour le Mémoire de Master.
 
 
 ![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/CaptureAppli.JPG)
@@ -19,32 +19,33 @@ Les fichiers suivants figurent dans le présent répertoire et sont nécessaires
 - `index_app.html` :  Script HTML - Structure de l'app (à lancer avec Chrome)
 - `style_app.css` :   Script CSS - Styles de l'app
 - `index_app.js` :    Script JavaScript - Interactivité de l'app
-- `pop_app.js` :      Fichier de données en format JS - Population à l'hectomètre et temps de trajet au service
-- `school_app.js` :   Fichier de données en format JS - Ecoles secondaires
+- `..._units.js` :    Fichiers de données en format JS - Localisation des unités de service et propriétés
+- `..._hectares.js` : Fichiers de données en format JS - Localisation des hectares de référence et propriétés
 - `favicon.ico` :     Logo de l'app
 - `images` :          Dossier contenant les icônes et marqueurs utilisés dans l'app
-
-Le fichier suivant figure dans le présent repertoire à titre informatif :
-- `script.py`:        Script Python - Script d'extraction des données utilisées (cf rubrique "[Données](https://github.com/nmonach2/VD-SerVis/blob/master/README.md#donn%C3%A9es)")
+- `data` :            Dossier contenant les données de localisation des unités de service en .csv
+- `script` :          Dossier contenant le script d'allocation depuis OTP ayant permis de générer les données utilisées (cf rubrique "[Données](https://github.com/nmonach2/VD-SerVis/blob/master/README.md#donn%C3%A9es)")
 
 
 
 # Description
 
-VD-SerVis est une application permettant de visualiser l'accessibilité aux services publics et de constater et quantifier les inégalités spatiales qui en résultent. 
+VD-SerVis est une application permettant de visualiser l'accessibilité aux services d'urgence et de constater et quantifier les inégalités spatiales qui en résultent. 
 
-La version actuelle correspond à la **phase terminale de conception**. En adéquation avec l'approche **TDD** (test-driven-development), **un seul prototype de service "prétexte"** a été implémenté jusqu'à ce que la conception soit totalement achevée : les établissements secondaires scolaires. Dans les prochaines mises à jours, d'autres services publics seront rajoutés, notamment dans le domaine de la **santé**, des secours et des urgences médicales, à savoir :
+Les services implémentés sont les suivants:
 - Les services d'urgences hospitalières
-- Les services de secours pré-hospitaliers (ambulances/SMUR)
-- Les services de sauvetage et de secours (SDIS)
-- Les permanences médicales
+- Les bases d'ambulances
+- Les centres publics de consultation médicale
 - Les pharmacies
+- Les cabinets médicaux
+- Les détachements de premiers secours (SDIS)
+- Les détachements d'appui (SDIS)
+- Les établissements scolaires secondaires, service public "test" (cf. dossier)
 - ...
 
 Les contraintes d'accessibilité et les temps de trajets sont des éléments particulièrement primordiaux en géographie de l'urgence, ce qui rend l'utilisation de VD-SerVis spécialement intéressante. En considérant que toutes les unités de service sont qualitativement égales, c'est le **temps de trajet** qui agit comme composante prédominante dans le choix de l'une d'entre elles. 
 
-L'application VD-SerVis est destinée à des fins informatives et instructives pour le grand public, ainsi qu'à des fins de planification, d'évaluation et de prévention pour les responsables des services de santé.
-
+L'application VD-SerVis est destinée à des fins informatives et instructives pour le grand public, ainsi qu'à des fins de planification, d'évaluation et de prévention pour les responsables des services de santé. Finalement, elle sert de support aux analyses menées dans le présent Mémoire de Master.
 
 
 # Eléments d'interface
@@ -71,7 +72,7 @@ En premier lieu, l'utilisateur est invité à interagir avec les **paramètres d
 1. Choix du type de service
 2. Choix des unités de service
 3. Choix du temps de trajet maximum
-Il est en outre possible d'afficher les densités de population.
+Il est en outre possible de choisir le mode de décompte de la population et de visualiser les densités.
 
 Trois différents moyens de sélection des unités ont été implémentés, afin d'améliorer l'ergonomie, le temps de sélection et les combinaisons possibles :
 - Un formulaire de cases à cocher (checkboxes)
@@ -97,8 +98,8 @@ Les données relatives aux temps de trajet ont été extraites directement depui
 Les données relatives à la population sont issues du [recensement démographique sur la population et les ménages](https://www.bfs.admin.ch/bfs/fr/home/actualites/quoi-de-neuf.assetdetail.1442443.html) mené par l'Office Fédéral de la Statistique en 2015 et publié en 2016. Ces données sont disponibles à l'hectomètre, ce qui est à ce jour le plus fin niveau d'analyse qui puisse être mis à disposition.
 
 ### Unités de service
-La localisation des services publics (dans l'état actuel, celui des établissements scolaires secondaires vaudois) a été obtenue en transformant les adresses des établissements listés en coordonnées géographiques. La liste des unités, actualisée en 2019, provient du [site](https://www.vd.ch/toutes-les-autorites/departements/departement-de-la-formation-de-la-jeunesse-et-de-la-culture-dfjc/direction-generale-de-lenseignement-obligatoire-dgeo/les-etablissements-scolaires/) de l'Etat de Vaud (DFJC).
+La localisation des unités de services a été obtenue en transformant les adresses physiques des établissements listés en coordonnées géographiques. La liste des unités, actualisée en 2020, proviennent de différents sources selon le type de service. Se rapporter au dossier pour consulter les sources spécifiques.
 
 ![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/CaptureAppli2.JPG)
 
-Copyright © Nicolas Monachon - 2019
+Copyright © Nicolas Monachon - 2020
