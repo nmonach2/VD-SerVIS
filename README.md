@@ -41,7 +41,6 @@ Les services implémentés sont les suivants:
 - Les détachements de premiers secours (SDIS)
 - Les détachements d'appui (SDIS)
 - Les établissements scolaires secondaires, service public "test" (cf. dossier)
-- ...
 
 Les contraintes d'accessibilité et les temps de trajets sont des éléments particulièrement primordiaux en géographie de l'urgence, ce qui rend l'utilisation de VD-SerVis spécialement intéressante. En considérant que toutes les unités de service sont qualitativement égales, c'est le **temps de trajet** qui agit comme composante prédominante dans le choix de l'une d'entre elles. 
 
