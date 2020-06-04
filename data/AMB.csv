@@ -1,0 +1,26 @@
+ID;ORGANISATION;ANTENNE;TYPE;ADRESSE;LAT;LON
+AAANYO;AAA Ambulances Services SA;Site de Nyon;Ambulance subventionnées par l'Etat pour l'urgence;Route des Tattes d'Oie 93, 1260 Nyon;46.3851271;6.2225801
+ARITDP;Ambulance Riviera;Site de la Tour-de-Peilz;Ambulance subventionnées par l'Etat pour l'urgence;Chemin de Béranges 111, 1814 La Tour-de-Peilz;46.4543492;6.8707612
+SPLLAU;Ambulance SPSL;Site de Lausanne;Ambulance subventionnées par l'Etat pour l'urgence;Rue Dr-César-Roux 31, 1005 Lausanne;46.5235405;6.638714
+ASVREN;Ambulances ASV;Base de Rennaz;Ambulance privées autorisées à faire de l'urgence;Route du Bey 6, 1847 Rennaz;46.383878;6.928152
+ASVMSL;Ambulances ASV;Base du Mont sur Lausanne;Ambulance privées autorisées à faire de l'urgence;Chemin de Budron H 9, 1052 Le Mont-sur-Lausanne;46.5765991;6.6307914
+CSUAIG;CSU - CAVD;Base d'Aigle;Ambulance subventionnées par l'Etat pour l'urgence;Chemin du Grand-Chêne 1, 1860 Aigle;46.3118099;6.9643857
+CSUENH;CSU - CAVD;Base du Pays-d'Enhaut;Ambulance subventionnées par l'Etat pour l'urgence;Route de l'hôpital 17, 1660 Château-d'Oex;46.4779185;7.1408348
+CSUAUB;CSU - MA;Base d'Aubonne;Ambulance subventionnées par l'Etat pour l'urgence;Rue de l'ouriette 131, 1170 Aubonne;46.4888703;6.4002155
+CSUMOR;CSU - MA;Base de Morges;Ambulance subventionnées par l'Etat pour l'urgence;Chemin du Crêt 2, 1110 Morges;46.5223927;6.4998227
+CSUABB;CSU - NVB;Base de l'Abbaye;Ambulance subventionnées par l'Etat pour l'urgence;Route de l'Hôtel de Ville 11, 1344 L'Abbaye;46.64828;6.317913
+CSUPAY;CSU - NVB;Base de Payerne;Ambulance subventionnées par l'Etat pour l'urgence;Rue du Châtelard 13, 1530 Payerne;46.8108987;6.929123
+CSUSTL;CSU - NVB;Base de St-Loup;Ambulance subventionnées par l'Etat pour l'urgence;Route de Saint-Loup 1, 1318 Pompaples;46.6658384;6.5104403
+CSUSTC;CSU - NVB;Base de Ste-Croix;Ambulance subventionnées par l'Etat pour l'urgence;Rue des Rosiers 29, 1450 St-Croix;46.8191635;6.4947888
+CSUYVE;CSU - NVB;Base d'Yverdon;Ambulance subventionnées par l'Etat pour l'urgence;Rue d'Entremonts 11, 1400 Yverdon;46.7716418;6.6464918
+STAEPA;S.T.A.R. Ambulances;Base d'Epalinges;Ambulance privées autorisées à faire de l'urgence;Chemin du Giziaux 3, 1066 Epalinges;46.5484833;6.6758567
+STALUT;S.T.A.R. Ambulances;Base de Lutry;Ambulance privées autorisées à faire de l'urgence;Chemin des Champs 4, 1095 Lutry;46.5049943;6.6867882
+STAMEZ;S.T.A.R. Ambulances;Base de Mézières;Ambulance subventionnées par l'Etat pour l'urgence;Route de Servion 6, 1083 Mézières VD;46.591998;6.7705949
+SMUNYO;SMUR;Base de Nyon;SMUR;Chemin Monastier 10, 1260 Nyon;46.3834976;6.2275335
+SMUMOR;SMUR;Base de Morges;SMUR;Chemin du Crêt 2, 1110 Morges;46.5223927;6.4998227
+SMULAU;SMUR;Base de Lausanne;SMUR;Rue du Bugnon 46, 1011 Lausanne;46.5247702;6.6436515
+SMUMON;SMUR;Base de Monthey;SMUR;Route du Vieux-Séquoia 20, 1847 Rennaz;46.3802674;6.9202876
+SMUPAY;SMUR;Base de Payerne;SMUR;Avenue de la Colline 3, 1530 Payerne;46.8191656;6.9476826
+SMUYVE;SMUR;Base d'Yverdon;SMUR;Rue d'Entremonts 11, 1400 Yverdon-les-Bains;46.7716418;6.6464918
+USRBUS;USR;Base de Bussigny;Ambulance subventionnées par l'Etat pour l'urgence;Route de Bellevue 11, 1029 Villars-Ste-Croix;46.5601892;6.5623265
+USRLAU;USR;Base de Lausanne;Ambulance privées autorisées à faire de l'urgence;Rue de Genève 24, 1003 Lausanne;46.5228934;6.6261469

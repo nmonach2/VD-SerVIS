@@ -1,0 +1,115 @@
+ID;CODE;SDIS;TYPE;NOM;ADRESSE;LAT;LON
+1;S-132; SDIS Lausanne - Epalinges;DAP;Caserne centrale de Lausanne;Rue de la Vigie 2, 1003 Lausanne;46.5222899;6.6245722
+2;S-608; SDIS Haut-Lac;DAP;Caserne de Rennaz;Route du Pré-de-la-Croix 6, 1847 Rennaz;46.382362;6.92273
+3;S-609; SDIS La Mèbre;DAP;Caserne de Romanel;Chemin de l’Orio 29, 1032 Romanel-sur-Lausanne;46.5670088;6.6046803
+4;S-609; SDIS La Mèbre;DAP;Caserne du Mont;Route du Jorat 6, 1052 Le Mont-sur-Lausanne;46.5604701;6.636276
+5;S-609; SDIS La Mèbre;DAP;Caserne de Cheseaux;Route de Genève 18, 1033 Cheseaux-sur-Lausanne;46.5821552;6.5970804
+6;S-602; SDIS Etraz Région;DAP;Local du feu de Gilly;-;46.4578192;6.2986944
+7;S-602; SDIS Etraz Région;DAP;Local du feu de Longirod;-;46.4952907;6.2582471
+8;S-602; SDIS Etraz Région;DAP;Local du feu de Mollens;-;46.578286;6.36257
+9;S-602; SDIS Etraz Région;DAP;Local du feu de Perroy;-;46.4705133;6.3687753
+10;S-602; SDIS Etraz Région;DAP;Caserne d'Aubonne;Chemin des Liserons 15, 1170 Aubonne;46.4946494;6.3953969
+11;S-602; SDIS Etraz Région;DAP;Caserne de Gimel;Rue des Sept Fontaines 2, 1188 Gimel;46.5122705;6.3085639
+12;S-602; SDIS Etraz Région;DAP;Caserne de Rolle;Z.A. La Pièce 5, 1180 Rolle;46.4618958;6.3230637
+13;S-612; SDIS Sorge;DAP;Caserne de Crissier;Chemin de Chisaz 1, 1023 Crissier;46.5505447;6.5782176
+14;S-650; SDIS Pays d'Enhaut;DAP;Local du feu de L'Etivaz;Route de l'Eau Froide, 1660 Château d'Oex;46.422383;7.1530339
+15;S-650; SDIS Pays d'Enhaut;DAP;Local du feu de Rossinière;Chemin de l'Eglise 18, 1669 Haut-Intyamon;46.4856959;7.0444891
+16;S-650; SDIS Pays d'Enhaut;DAP;Local du feu de Château d'Oex;Route des Monnaires 24, 1660 Château d'Oex;46.4737348;7.1345395
+17;S-650; SDIS Pays d'Enhaut;DAP;Local du feu de Rougemont;Rue des Allamans 36, 1659 Rougemont;46.4893275;7.213164
+18;S-665; SDIS Terre Sainte;DAP;Caserne de Founex;Chemin Balessert 1, 1297 Founex;46.339663;6.1660609
+19;S-665; SDIS Région Venoge;DAP;Organe d'intervention de Boussens;Grand-Rue 8, 1034 Boussens;46.6030538;6.5827813
+20;S-665; SDIS Région Venoge;DAP;Organe d'intervention Veyron-La Tine 1;Route de Vullierens 2, 1117 Grancy;46.5918445;6.465602
+21;S-665; SDIS Région Venoge;DAP;Organe d'intervention Veyron-La Tine 2;Rue du Collège, 1316 Chevilly;46.643202;6.476385
+22;S-665; SDIS Région Venoge;DAP;Caserne de Penthalaz;Chemin de l'Islettaz 3, 1305 Penthalaz;46.6073072;6.5224678
+23;S-665; SDIS Région Venoge;DAP;Caserne de l'Isle;Rue des Artisans 4, 1148 L'Isle;46.62128;6.4174791
+24;S-665; SDIS Région Venoge;DAP;Caserne de La Sarraz;Rue des Guébettes 1, 1315 La Sarraz;46.6580807;6.5157826
+25;S-665; SDIS Nyon-Dôle;DAP;Caserne de Gingins;Route de Chiblins 15, 1276 Gingins;46.4081285;6.1792207
+26;S-665; SDIS Nyon-Dôle;DAP;Caserne de Crassier;Route de Nyon 5, 1263 Crassier;46.3735282;6.1660106
+27;S-665; SDIS Nyon-Dôle;DAP;Caserne d'Arzier;Rue du Village 10, 1273 Arzier;46.4595514;6.2095561
+28;S-665; SDIS Nyon-Dôle;DAP;Caserne de Nyon;Route de Champ-Colin 4, 1260 Nyon;46.3834904;6.2195747
+29;S-665; SDIS Nyon-Dôle;DAP;Caserne de Saint-Cergue;Place Sy-Vieuxville 4, 1264 St-Cergue;46.446783;6.1563056
+30;S-665; SDIS Nyon-Dôle;DAP;Caserne de Genolier;Chemin de la Bregantenaz 10, 1272 Genolier;46.4342489;6.2199113
+31;S-680; SDIS Gland-Serine;DAP;Caserne de Gland;Chemin de Montoly 9, 1196 Gland;46.4237352;6.2751319
+32;S-680; SDIS Gland-Serine;DAP;Caserne de Le Vaud;Chemin de l'Ouche, 1261 Le Vaud;46.4783638;6.2384963
+33;S-685; SDIS Gros-de-Vaud;DAP;Caserne d'Echallens;Chemin de Clopette 4,1040 Echallens.;46.6427344;6.6219096
+34;S-685; SDIS Gros-de-Vaud;DAP;Caserne de Bercher;Place de la Gare, 1038 Bercher;46.6920183;6.7043071
+35;S-685; SDIS Gros-de-Vaud;DAP;Caserne de Pailly;Route d’Essertines, 1416 Pailly;46.7037831;6.6731234
+36;S-685; SDIS Gros-de-Vaud;DAP;Caserne de Goumoëns;Route de Penthéréaz, 1376 Goumoëns-la-Ville;46.6639983;6.6081677
+37;S-685; SDIS Gros-de-Vaud;DAP;Caserne de Montiliez;Derrière-Ville, 1041 Poliez-le-Grand;46.6359634;6.6695617
+38;S-685; SDIS Gros-de-Vaud;DAP;Caserne de Jorat-Menthue;Chemin des Esserts, 1059 Peney-le-Jorat;46.631298;6.7291426
+39;S-685; SDIS Gros-de-Vaud;DAP;Caserne d'Etagnières;Route de l’Etang, 1037 Etagnières;46.6011664;6.6128345
+40;S-690; SDIS Morget;DAP;Caserne de Morges;Avenue de Marcelin 2, 1110 Morges;46.5117924;6.4930049
+41;S-690; SDIS Morget;DAP;Caserne de Saint-Prex;Chemin de la Vergognausaz 45, 1163 Saint-Prex;46.4786872;6.4339851
+42;S-690; SDIS Morget;DAP;Caserne de Denges;-;46.525155;6.5361555
+43;S-690; SDIS Morget;DAP;Caserne d'Apples;-;46.5582484;6.4339689
+44;S-690; SDIS Morget;DAP;Caserne de Vufflens-le-Château;-;46.5253476;6.4748364
+45;S-690; SDIS Morget;DAP;Caserne de Yens;Chemin du Rossé 2, 1169 Yens;46.5189974;6.41485
+46;S-690; SDIS Morget;DAP;Caserne de Lully;Route de Morges 8, 1132 Lully;46.5046028;6.4666723
+47;S-690; SDIS Morget;DAP;Caserne d'Aclens;Rue des Alpes 8, 1123 Aclens;46.5665173;6.512371
+48;S-690; SDIS Morget;DAP;Caserne de Colombier;-;46.556444;6.4729363
+49;S-701; SDIS Chablais;DAP;Caserne d'Aigle;Chemin de Marjolin 91, 1860 Aigle;46.307771;6.9689613
+50;S-701; SDIS Chablais;DAP;Caserne de Corbeyrier;-;46.3487657;6.9603599
+51;S-702; SDIS Vallée de Joux;DAP;Hangar du Sentier;Rue de l’Orbe 9, 1347 Le Sentier;46.604972;6.231195
+52;S-702; SDIS Vallée de Joux;DAP;Hangar de l'Abbaye;Place du Prédicant, 1344 L'Abbaye;46.6364247;6.320202
+53;S-710; SDIS Ouest-Lavaux;DAP;Caserne de Pully;Place de la Clergère 15, 1009 Pully;46.5109716;6.6617278
+54;S-710; SDIS Ouest-Lavaux;DAP;Caserne de Belmont;Route d'Arnier 80, 1092 Belmont-sur-Lausanne;46.5247845;6.6816177
+55;S-710; SDIS Ouest-Lavaux;DAP;Caserne de Lutry;Chemin des Champs 4, 1095 Lutry;46.5049943;6.6867882
+56;S-711; SDIS Alpin;DAP;Caserne des Diablerets;La Gare 42, 1865 Les Diablerets;46.3533294;7.1519898
+57;S-711; SDIS Alpin;DAP;Caserne des Mosses;Les Mosses 118, 1862 Ormont-Dessous;46.3985316;7.1027824
+58;S-711; SDIS Alpin;DAP;Caserne de Leysin;Route du Camping, 1854 Leysin;46.341595;7.017464
+59;S-733; SDIS Cœur de Lavaux;DAP;Caserne de Puidoux;Chemin des Chaux 1058, 1070 Puidoux;46.5028114;6.7858322
+60;S-733; SDIS Cœur de Lavaux;DAP;Caserne de Savigny;Route de Claie-aux-Moines 17, 1073 Savigny;46.5413937;6.7115111
+61;S-733; SDIS Cœur de Lavaux;DAP;Caserne de Cully;Chemin du Vigny 3, 1096 Cully;46.4897069;6.7300097
+62;S-733; SDIS Cœur de Lavaux;DAP;Caserne de Forel;Route de Vevey 11, 1072 Forel;46.5353692;6.7691312
+63;S-735; SDIS de Malley, Prilly et Renens;DAP;Local du feu de Renens;Rue de l'Avenir 4, 1020 Renens;46.5370194;6.5844276
+64;S-735; SDIS de Malley, Prilly et Renens;DAP;Caserne de Prilly;Chemin du Centenaire 4, 1008 Prilly;46.5347821;6.6071494
+65;S-738; SDIS Chamberonne;DAP;Caserne d'Ecublens;Ch. des Esserts 5, 1024 Ecublens;46.5339446;6.5692626
+66;S-738; SDIS Chamberonne;DAP;Caserne de Chavannes;Av. de la Gare 94 - 1022 Chavannes;46.5282744;6.5719625
+67;S-741; SDIS Riviera;DAP;Caserne de Saint-Légier;Chemin de Pangires 2, 1806 Saint-Légier-La Chiésaz;46.4746453;6.8764596
+68;S-741; SDIS Riviera;DAP;Caserne de Jongny;Chemin de la Forge 7, 1805 Jongny;46.4786324;6.8409808
+69;S-741; SDIS Riviera;DAP;Caserne de Montreux;Rue de la Corsaz 4, 1820 Montreux;46.4322626;6.9151904
+70;S-741; SDIS Riviera;DAP;Caserne de Vevey;Rue du Musée 5, 1800 Vevey;46.4610553;6.8448479
+71;S-755; SDIS Haut-Talent;DAP;Caserne du Haut-Talent;Rte de Montheron 53, 1053 Montheron;46.5933671;6.654096
+72;S-765; SDIS Régional du Nord Vaudois;DAP;Caserne de Donneloye;-;46.7445635;6.7155093
+73;S-765; SDIS Régional du Nord Vaudois;DAP;Caserne de Belmont-sur-Yverdon;-;46.7453758;6.624103
+74;S-765; SDIS Régional du Nord Vaudois;DAP;Caserne de Montagny-près-Yverdon;-;46.7917884;6.6120529
+75;S-765; SDIS Régional du Nord Vaudois;DAP;Caserne de Bonvillars;-;46.8392361;6.6714518
+76;S-765; SDIS Régional du Nord Vaudois;DAP;Caserne de Chavannes-le-Chêne;-;46.7769235;6.7778913
+77;S-766; SDIS Plaine de l'Orbe;DAP;Caserne d'Orbe;Via Urba 7, 1350 Orbe;46.724986;6.54396
+78;S-766; SDIS Plaine de l'Orbe;DAP;DAP de Bofflens;-;46.705068;6.4982378
+79;S-766; SDIS Plaine de l'Orbe;DAP;DAP de Bavois;-;46.6860182;6.5653718
+80;S-766; SDIS Plaine de l'Orbe;DAP;DAP de Baulmes;-;46.7895163;6.521739
+81;S-766; SDIS Plaine de l'Orbe;DAP;DAP de Chavornay;-;46.7088129;6.5707689
+82;S-766; SDIS Plaine de l'Orbe;DAP;DAP de Croy;Le Praz-Amiet, 1322 Croy;46.6877064;6.4815158
+83;S-766; SDIS Plaine de l'Orbe;DAP;DAP de Rances;-;46.760201;6.5299737
+84;S-767; SDIS Haute-Broye;DAP;Caserne de Lucens;Avenue de la Vignette 5, 1522 Lucens;46.7087072;6.836183
+85;S-767; SDIS Haute-Broye;DAP;Caserne de Thierrens;-;46.7040793;6.753842
+86;S-768; SDIS Broye-Vully;DAP;Caserne de Payerne;Rue Derrière Chapelle, 1530 Payerne;46.8211073;6.9396326
+87;S-768; SDIS Broye-Vully;DAP;Caserne d'Avenches;Derrière les Murs, 1580 Avenches;46.8877597;7.0435383
+88;S-768; SDIS Broye-Vully;DAP;Caserne de Chabrey;-;46.9268456;6.981517
+89;S-768; SDIS Broye-Vully;DAP;Caserne de Dompierre;-;46.708190;6.883169
+90;S-768; SDIS Broye-Vully;DAP;Caserne de Grandcour;-;46.8718572;6.9281823
+91;S-768; SDIS Broye-Vully;DAP;Caserne de Treytorrens;-;46.7716154;6.7999774
+92;S-768; SDIS Broye-Vully;DAP;Caserne de Granges-près-Marnand;-;46.76336;6.88765
+93;S-768; SDIS Broye-Vully;DAP;Caserne de Villarzel;-;46.7484013;6.9129687
+94;S-769; SDIS Vallorbe Région;DAP;Caserne de Vallorbe;Rue du Milieu, 1337 Vallorbe;46.7114994;6.3771921
+95;S-769; SDIS Vallorbe Région;DAP;Caserne de Ballaigues;Grand-Rue 41, 1338 Ballaigues;46.729838;6.4162477
+96;S-769; SDIS Vallorbe Région;DAP;Caserne de Vaulion;-;46.6879021;6.3889387
+97;S-770; SDIS Ste-Croix - Pied-de-la-Côte;DAP;Caserne de Sainte-Croix;Chemin du Progrès 28, 1450 Sainte-Croix;46.8178407;6.504588
+98;S-770; SDIS Ste-Croix - Pied-de-la-Côte;DAP;Caserne de Tévenon;Route de la Fontaine 12, 1423 Villars-Burquin;46.8469587;6.6274672
+99;S-777; SDIS Les Salines;DAP;Caserne de Bex;Rue du Simplon 7, 1880 Bex;46.2484;7.008673
+100;S-777; SDIS Les Salines;DAP;Service du feu d'Ollon;Route de la Distillerie 4, 1867 Ollon;46.2965233;6.9923834
+101;S-777; SDIS Les Salines;DAP;Local du feu de Gryon;Route de Villars 41, 1882 Gryon;46.281423;7.069494
+102;S-777; SDIS Les Salines;DAP;Caserne de Villars;Rue du Village 10, 1884 Ollon;46.2982432;7.0527236
+103;S-780; SDIS Fortifications;DAP;Caserne de Saint-Maurice;Route du Simplon 66, 1890 Saint-Maurice;46.2094445;7.0063096
+104;S-790; SDIS Oron-Jorat;DAP;Caserne d'Oron;Route de Lausanne 54, 1610 Oron;46.5712434;6.8183436
+105;S-790; SDIS Oron-Jorat;DAP;Caserne de Mézières;Route de la Croix-d'Or 8, 1083 Mézières;46.5964404;6.7687912
+106;S-790; SDIS Oron-Jorat;DAP;Caserne de Vucherens;Rue de la Gotte 5, 1509 Vucherens;46.6217861;6.7741299
+107;S-790; SDIS Oron-Jorat;DAP;Caserne de Palézieux;Rue de la Gare 22, 1607 Palézieux;46.5413783;6.8379294
+108;S-602; SDIS Etraz Région;DAP;Caserne de Bière;Avenue du Tir Fédéral 12, 1145 Bière;46.5357606;6.3391816
+109;S-767; SDIS Haute-Broye;DAP;Caserne de Moudon;Zone Industrielle la Pussaz 9, 1510 Moudon;46.6585892;6.7935235
+110;S-768; SDIS Broye-Vully;DAP;Caserne de Cudrefin;Chemin de la Moillettaz, 1588 Cudrefin;46.9541132;7.0215815
+111;S-765; SDIS Régional du Nord Vaudois;DAP;Caserne d'Yvonand; Chemin de la Petite Amérique 2, 1462 Yvonand;46.7982703;6.7558038
+112;S-765; SDIS Régional du Nord Vaudois;DAP;Caserne de Grandson;Chemin du Borné-Nau, 1422 Grandson;46.8147203;6.6498241
+113;S-765; SDIS Régional du Nord Vaudois;DPS;Caserne d'Yverdon;Rue de l'Arsenal 8, 1400 Yverdon-les-Bains;46.785016;6.6398038
+114;S-765; SDIS Régional du Nord Vaudois;DPS;Caserne de Concise;En Chenaux 8, 1426 Concise;46.8520457;6.7185882
