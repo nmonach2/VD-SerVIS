@@ -10,7 +10,7 @@ Cette version sert de support d'analyse et de visualisation pour le Mémoire de 
 
 
 # Indications
-L'application VD-SerVis est hébergée sur serveur à l'URL suivant : [URL à venir]
+L'application VD-SerVis est hébergée sur serveur à l'URL suivant : [https://nmonach2.github.io/VD-SerVIS/](https://nmonach2.github.io/VD-SerVIS/)
 
 L'utilisateur trouvera ci-après quelques informations relatives à cette application (aide, crédits, infos, etc...).
 
