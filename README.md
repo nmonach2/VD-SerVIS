@@ -1,12 +1,13 @@
 # VD-SerVis
 
-Application dynamique de visualisation de données géographiques, développée en HTML-CSS-JS.
+Application dynamique de visualisation de données géographiques, développée en HTML-CSS-JS. Cette version sert de support d'analyse et de visualisation pour le Mémoire de Master.
 
-Cette version sert de support d'analyse et de visualisation pour le Mémoire de Master.
 
 L'application VD-SerVis est hébergée sur serveur à l'URL suivant : [https://nmonach2.github.io/VD-SerVIS/](https://nmonach2.github.io/VD-SerVIS/)
 
+
 L'utilisateur trouvera ci-après quelques informations relatives à cette application (aide, crédits, infos, etc...).
+
 
 ![alt text](https://github.com/nmonach2/VD-SerVis/blob/master/images/CaptureAppli.JPG)
 
