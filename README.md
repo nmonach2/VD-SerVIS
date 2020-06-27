@@ -46,6 +46,8 @@ L'application VD-SerVis est destinée à des fins informatives et instructives p
 
 # Eléments d'interface
 
+Une vidéo explicative est disponible ici : [![Voir la vidéo](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=1-6KYCujEak)
+
 L'interface se divise en 4 blocs majeurs :
 - A. **Le bandeau** sur le haut de l'écran
 - B. **Les paramètres de sélection** sur la partie gauche de l'écran
